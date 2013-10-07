@@ -33,7 +33,9 @@ Contact details
 
 contact the developer at this email ids :
 
-luckywith786@gmail.com
+
+luckywith786@gmail.com 
+
 roneet.kumar.shaw@gmail.com
 
 License
@@ -41,7 +43,7 @@ License
 
 GNU GPL Version 3, 29 June 2007.
 
-Please refer this link for detailed description.
+Please refer to GNU GPL version 3.txt for License
 
 All rights belong to Roneet Kumar Shaw.
 
